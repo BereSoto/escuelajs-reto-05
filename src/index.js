@@ -1,6 +1,6 @@
 const $app = document.getElementById('app');
 const $observe = document.getElementById('observe');
-const API = 'https://randomuser.me/aoi';
+const API = 'https://randomuser.me/api';
 
 const getData = api => {
   fetch(api)
