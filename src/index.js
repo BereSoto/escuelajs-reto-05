@@ -1,6 +1,6 @@
 const $app = document.getElementById('app');
 const $observe = document.getElementById('observe');
-const API = 'https://randomuser.me/api';
+const API = 'https://us-central1-escuelajs-api.cloudfunctions.net/characters';
 
 const getData = api => {
   fetch(api)
