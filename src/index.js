@@ -1,6 +1,6 @@
 const $app = document.getElementById('app');
 const $observe = document.getElementById('observe');
-const API = 'https://rickandmortyapi.com/api/character/';
+const API = 'https://randomuser.me/aoi';
 
 const getData = api => {
   fetch(api)
