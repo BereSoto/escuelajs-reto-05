@@ -2,15 +2,17 @@
 
 Solución al reto 05 de Escuela de JavaScript
 
-Nombre:
-Usuario Platzi:
+Nombre: Montserra Berenice Soto Fermin
+Usuario Platzi: Beresoto
 
 ## Ciudad
-- [ ] Ciudad de México
+
+- [x ] Ciudad de México
 - [ ] Bogotá
 
 ## Reto:
-  - [ ] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
-  - [ ] Cuarto Problema (Opcional)
+
+- [x ] Primer problema
+- [ x] Segundo problema
+- [ x] Tercer problema
+- [ ] Cuarto Problema (Opcional)
